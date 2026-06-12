@@ -67,6 +67,17 @@ The data is analyzed to identify booking behaviors and cancellation patterns.
 - Interactive Charts
 
 
+## 📁 Project Structure
+
+```
+Hotel-Booking-Cancellation/
+│
+├── Book1 (1).xlsx      # Dataset used for analysis
+├── Pivot.png           # Pivot table analysis screenshot
+├── dashboard.png       # Dashboard visualization
+└── README.md           # Project documentation
+```
+
 
 
 ## 📊 Key Insights
@@ -99,7 +110,21 @@ The data is analyzed to identify booking behaviors and cancellation patterns.
 
 
 
+---
+
+## 👩‍💻 Author
+
+**Anupriya Rajput**
+
+GitHub: https://github.com/Anupriya55509
+
+---
+
 ## 📄 License
 
 This project is created for educational and academic purposes.
+
+---
+
+⭐ If you find this project useful, feel free to star the repository.
 
