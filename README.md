@@ -81,10 +81,10 @@ The data is analyzed to identify booking behaviors and cancellation patterns.
 ## 📷 Screenshots
 
 ### Dashboard
-![screenshot(797)](screenshot(797).png)
+![Screenshot(797)](Screenshot(797).png)
 
 ### Pivot Table Analysis
-![screenshot(802)](screenshot(802).png)
+![Screenshot(802)](Screenshot(802).png)
 
 
 
