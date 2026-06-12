@@ -114,17 +114,12 @@ Hotel-Booking-Cancellation/
 
 ## 👩‍💻 Author
 
-**Anupriya Rajput**
+**Anupriya Kumari Singh**
 
 GitHub: https://github.com/Anupriya55509
 
 ---
 
-## 📄 License
-
-This project is created for educational and academic purposes.
-
----
 
 ⭐ If you find this project useful, feel free to star the repository.
 
