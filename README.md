@@ -6,6 +6,11 @@ Hotel booking cancellations can significantly affect hotel revenue and operation
 
 The analysis helps understand customer behavior and provides insights that can assist hotel management in reducing cancellation rates and improving decision-making.
 
+## 📊 Dataset Source
+
+The dataset used in this project was sourced from **Kaggle** and contains **119,000+ hotel booking records** from both resort hotels and city hotels. The dataset includes booking details such as customer type, market segment, lead time, meal plans, reservation status, special requests, previous cancellations, and other factors related to hotel reservations.
+
+The dataset was utilized for data cleaning, exploratory analysis, cancellation trend identification, and dashboard development in Microsoft Excel. Analyzing this real-world dataset helped uncover key patterns influencing booking cancellations and provided actionable insights for improving operational planning and revenue management.
 
 
 ## 🎯 Objectives
